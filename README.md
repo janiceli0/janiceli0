@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm <span style="font-size:100px;">Janice</span>!
+- 👋 Hi there, I'm Janice!
 - 👀 I'm a Front-end Developer, passionate about web development.
 - 🌱 Currently, I'm focused on enhancing my skills in HTML, CSS, JavaScript, and React.
 
